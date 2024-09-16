@@ -1,0 +1,20 @@
+.header-slogan{
+    font-size: 3.5rem !important;
+    font-weight: 500 !important;
+    background: #440A11;
+background: linear-gradient(to right, #641b25 0%, #7ddb11 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+
+
+}
+.tittle{
+    background: #46190B;
+background: linear-gradient(to right, #46190B 0%, #FD0A32 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+font-weight: 600 !important;
+font-size: 1.5rem !important;
+font-style: italic !important;
+
+}
